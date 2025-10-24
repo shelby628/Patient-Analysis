@@ -24,7 +24,7 @@ The analysis aims to identify areas for improving service delivery, reducing wai
 - `Patient` — Visits  that occured throughout the year.    
 - Data sourced from a public healthcare dataset in Kaggle
 
-##Tools used.
+## Tools used.
 - Python (Jupyter Notebook)
 - Power BI
 - Excel
