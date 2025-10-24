@@ -68,8 +68,14 @@ The heatmap analysis reveals that certain racial and age groups show higher sati
 
 <img width="759" height="334" alt="image" src="https://github.com/user-attachments/assets/9f6c1f7e-00c8-4f9a-ae4f-b50fab0f517a" />
 
-The Wait Time Probability Predictor is a Streamlit-based machine learning application designed to model the relationship between patient waiting times and satisfaction scores. Using a linear regression algorithm, the app analyzes real-world patient data to generate predictive insights that can guide operational decisions in healthcare management. It features an interactive interface built with Streamlit, enabling real-time input, prediction, and visualization of results. This project demonstrates practical skills in Python, pandas, scikit-learn, data visualization (Matplotlib), and Streamlit deployment, showcasing the ability to translate raw data into actionable intelligence.
+
+
+I built  a miniapp ; Wait Time Probability Predictor is a Streamlit-based machine learning application designed to model the relationship between patient waiting times and satisfaction scores. Using a linear regression algorithm, the app analyzes real-world patient data to generate predictive insights that can guide operational decisions in healthcare management. It features an interactive interface built with Streamlit, enabling real-time input, prediction, and visualization of results. This project demonstrates practical skills in Python, pandas, scikit-learn, data visualization (Matplotlib), and Streamlit deployment, showcasing the ability to translate raw data into actionable intelligence.
+
+
 <img width="731" height="450" alt="image" src="https://github.com/user-attachments/assets/0c07736c-40ff-4d46-8ee4-971723fdce72" />
+
+
 <img width="548" height="401" alt="image" src="https://github.com/user-attachments/assets/1a8fa2d1-b7c5-476a-88e4-c4790882314b" />
 
 
