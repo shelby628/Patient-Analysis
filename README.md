@@ -98,17 +98,13 @@ Once the app starts, Streamlit will automatically open it at:
 👉 http://localhost:8501
    
 ##  Conclusion
-This project provided actionable insights into sales operations and improved resource allocation decisions through data-driven reporting.
-
+The analysis of the project proved the potential of analytical tools to transform raw healthcare data into actionable insights that can enhance both operational efficiency and quality of care.
 ## Author
 **Shelby Adede**  
 - Data Analyst | Machine Learning Enthusiast  
 -  shelbyadede@gmail.com  
 
-  ##  Future Improvements
-- Add predictive modeling using Scikit-learn  
-- Automate Power BI refresh using Python scripts
-
+ 
 
 
 
