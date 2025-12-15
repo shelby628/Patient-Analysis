@@ -52,13 +52,13 @@ The analysis aims to identify areas for improving service delivery, reducing wai
 - **Satisfaction Disparities Across Demographics:** Heatmap analysis reveals variations in satisfaction levels across race and age groups, highlighting potential demographic-driven experience gaps that management should further investigate.
 
 
-  ##Visualisations
-##Dashboard overview
+  ## Visualisations
+## Dashboard overview
+### Power BI Dashboard Overview
 
+<img width="770" height="340" alt="image" src="https://github.com/user-attachments/assets/88d4979d-30ca-4990-8f01-6ba71fd0fb97" /> <br>
 
-<img width="770" height="340" alt="image" src="https://github.com/user-attachments/assets/88d4979d-30ca-4990-8f01-6ba71fd0fb97" />
-
-<img width="759" height="334" alt="image" src="https://github.com/user-attachments/assets/9f6c1f7e-00c8-4f9a-ae4f-b50fab0f517a" />
+<img width="759" height="334" alt="image" src="https://github.com/user-attachments/assets/9f6c1f7e-00c8-4f9a-ae4f-b50fab0f517a" /> <br>
 
 ## Conclusion
 The analysis reveals strong patient growth while highlighting critical opportunities to reduce wait times, improve feedback collection, and address satisfaction disparities across demographics.
