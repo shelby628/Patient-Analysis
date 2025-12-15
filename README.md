@@ -1,4 +1,5 @@
-# Patient Data Analysis 
+
+## Part 1: Patient Data Analysis & Visualization
 
 
 ## Table of Contents
@@ -35,31 +36,22 @@ The analysis aims to identify areas for improving service delivery, reducing wai
 3. Visualization — built KPI dashboards in Power BI  
 4. Reporting — summarized findings for decision making
 
-  ## QUESTIONS (KPI)
-1. Calculating the total number of patients recorded?
-2. Evaluating workload distribution and service segmentation.
-3. What is the Average rating of patient satisfaction?
-4.What is the Mean waiting time before receiving service?
-5.  Comparison between weekday and weekend visits.
-6.  What is the Correlation between race, age group, and satisfaction?
+  ## Key Questions (KPIs)
+1. What is the total number of patients recorded?
+2. What is the average patient satisfaction score?
+3. What is the mean waiting time before receiving service?
+4. How do weekday and weekend visits compare?
+5. Is there a relationship between race, age group, and satisfaction?
 
- ## Key Insights
-1-The average satisfaction score of 5.47 indicates room for improvement,
-especially given that 75% of patients did not provide ratings,suggesting low engagement in feedback collection.#
-2-The average wait time of 35.26 minutes is relatively high and may be negatively influencing satisfaction levels. Operational workflow optimization is likely needed.
-3-Patient Volume Growth
+## Key Insights
+- **Patient Satisfaction:** The average satisfaction score of **5.47** indicates room for improvement. Notably, **75% of patients did not provide ratings**, suggesting low engagement in feedback collection.
+- **Waiting Time:** The average wait time of **35.26 minutes** is relatively high and likely contributes to lower satisfaction levels, indicating a need for operational workflow optimization.
+- **Patient Volume Growth:** Total patients increased from **4,338 in 2019 to 4,878 in 2020**, representing a **12% year-over-year growth**, which may reflect increased patient trust or expanded services.
+- **Age Group Concentration:** The adult category accounts for the majority of patients, suggesting the hospital’s core services are primarily focused on adult care rather than pediatrics.
+- **Referral Trends:** Non-referred patients (**59%**) outnumber referred patients (**41%**), implying that most visits are direct and likely driven by general consultations or primary care needs.
+- **Satisfaction Disparities Across Demographics:** Heatmap analysis reveals variations in satisfaction levels across race and age groups, highlighting potential demographic-driven experience gaps that management should further investigate.
 
-Total patients increased from 4,338 in 2019 to 4,878 in 2020, showing a 12% year-over-year growth — a positive indicator of patient trust or expanded services.
-4-Age Group Concentration
 
-The Adult category accounts for the majority of patients, suggesting the hospital’s core services are primarily targeted toward adult care rather than pediatrics.
-5-Referral Trends
-
-Non-referred patients (59%) outnumber referred patients (41%), implying that most patients are direct visitors, possibly due to general consultations or primary care visits.
-6-Satisfaction Disparities Across Demographics
-
-The heatmap analysis reveals that certain racial and age groups show higher satisfaction (darker shades), highlighting potential demographic-driven experience gaps that management should investigate.
-  “The analysis reveals strong patient growth but highlights critical opportunities in reducing wait times, improving feedback collection, and addressing satisfaction disparities across demographics.”
   ##Visualisations
 ##Dashboard overview
 
@@ -68,7 +60,11 @@ The heatmap analysis reveals that certain racial and age groups show higher sati
 
 <img width="759" height="334" alt="image" src="https://github.com/user-attachments/assets/9f6c1f7e-00c8-4f9a-ae4f-b50fab0f517a" />
 
+## Conclusion
+The analysis reveals strong patient growth while highlighting critical opportunities to reduce wait times, improve feedback collection, and address satisfaction disparities across demographics.
 
+
+## Part 2: Wait Time Probability Predictor (ML Mini-App)
 
 I built  a miniapp ; Wait Time Probability Predictor is a Streamlit-based machine learning application designed to model the relationship between patient waiting times and satisfaction scores. Using a linear regression algorithm, the app analyzes real-world patient data to generate predictive insights that can guide operational decisions in healthcare management. It features an interactive interface built with Streamlit, enabling real-time input, prediction, and visualization of results. This project demonstrates practical skills in Python, pandas, scikit-learn, data visualization (Matplotlib), and Streamlit deployment, showcasing the ability to translate raw data into actionable intelligence.
 
